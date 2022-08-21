@@ -1,0 +1,13 @@
+@media (max-width: 1000px) {
+    #section {
+        height: 500px;
+        width: 250px;
+        flex-direction: column;
+    }
+
+    .article {
+        height: 150px;
+        width: 150px;
+        font-size: 3rem;
+    }
+}
