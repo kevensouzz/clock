@@ -4,4 +4,6 @@
 
 ![Design preview for the project](design/clock.jpg)
 
+![Design preview for the project](design/mobile-clock.jpg)
+
 </div>
