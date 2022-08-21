@@ -1,4 +1,4 @@
-# Um Simples Relógio Digital
+# Um Simples Relógio Digital :D
 
 <div align="center">
 
